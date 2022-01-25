@@ -1,0 +1,14 @@
+myShop\Application.class
+myShop\Controllers\SessionController.class
+myShop\Models\DBModels\User.class
+myShop\Controllers\Home.class
+myShop\middleware\auth.class
+myShop\Models\DBModels\User$userId.class
+myShop\Repositories\UserRepository.class
+myShop\Services\SessionService.class
+myShop\Models\DBModels\User$userPassword.class
+myShop\Models\DBModels\Session.class
+myShop\Repositories\SessionRepository.class
+myShop\Services\UserService.class
+myShop\Controllers\UserController.class
+myShop\Models\DBModels\SessionCompositeKey.class
